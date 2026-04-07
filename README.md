@@ -1,4 +1,4 @@
-#Dashboard de Análise Estratégica de Turnover
+Dashboard de Análise Estratégica de Turnover
 Este projeto apresenta um dashboard interativo desenvolvido para a análise crítica da rotatividade de funcionários (turnover). O objetivo é identificar padrões, departamentos de risco e fatores motivacionais que influenciam a retenção de talentos.
 
 🚀 Visão Geral
