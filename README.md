@@ -1,3 +1,5 @@
+Dashboard de Análise de Turnover
+
 Projeto desenvolvido para analisar a rotatividade de funcionários e identificar possíveis causas de desligamento.
 Objetivo
 Entender quais áreas da empresa apresentam maior turnover e quais fatores podem estar influenciando essas saídas.
