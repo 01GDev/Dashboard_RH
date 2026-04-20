@@ -52,6 +52,7 @@ Média salarial de Sales acima da média geral
 
 Distância de casa semelhante aos outros setores
 
+---
 
 Possível causa do turnover
 
@@ -59,14 +60,13 @@ Baixa satisfação com o ambiente de trabalho
 
 Menor nível de envolvimento comparado à média da empresa
 
-
-
+---
 
 Conclusão
 
 Os dados indicam que o turnover em Sales está mais ligado a fatores internos, como ambiente e engajamento, do que a salário.
 
-
+---
 
 Link do projeto
 
